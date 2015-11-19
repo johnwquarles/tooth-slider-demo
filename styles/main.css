@@ -1,0 +1,11 @@
+body {
+  background: #2C3150;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #333;
+  text-align: center;
+}
+
+.twentytwenty-container {
+  position: absolute;
+  right: 0;
+}
